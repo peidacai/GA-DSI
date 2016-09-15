@@ -1,16 +1,8 @@
----
-title: DSI Installfest
-duration: "1:00"
-creator:
-    name: Marc Harper
-    city: LA
----
-
 # ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Data Science Immersive "Installfest" 
 
 ## DSI Computer Setup
 
-Welcome to GA's Data Science Immersive! Before you start class, you'll need to download and install a few tools. Follow this guide to get your computer all set up, and let us know if you have any questions.
+Welcome to GA's Data Science Immersive! For this course you'll need to download and install a few tools. Follow this guide to get your computer all set up, and let us know if you have any questions.
 
 ## Part 1. Operating System
 
@@ -89,14 +81,14 @@ $ source ~/.bashrc
  Type "help", "copyright", "credits" or "license" for more information.
  Anaconda is brought to you by Continuum Analytics.
  Please check out: http://continuum.io/thanks and https://anaconda.org
- >>>
+ \>>>
  ```
 
 2. Next, make sure that the necessary packages are installed. For example, to check that `matplotlib` is installed, type in your terminal:
 
  ```bash
- >>>> import matplotlib
- >>>> print matplotlib.__version__
+ \>>> import matplotlib
+ \>>> print matplotlib.__version__
  1.5.1
  ```
 
@@ -202,31 +194,30 @@ Test that this works by typing `psql`. You should be presented with the postgres
 1. We'll be using [Slack](https://slack.com/), a popular messaging platform, for our class communications.
  * Click on the [installation instructions for your platform](https://slack.com/downloads) to install the Slack desktop app. You can also sign into Slack using a web interface or via their mobile app!
 
- > Note: Add additional market & cohort-specific channel instructions here, as needed.
-
 2. [Chrome](https://www.google.com/chrome/) is Google's popular web browser, and it comes with a complete set of developer tools built-in. We'll use Chrome to examine code, debug scripts, and view back-end processes. If you don't already have Chrome, make sure to download and install it now.
 
 3. [Tableau](http://www.tableau.com/) is a popular dashboard creation system for visualizing data. As a data scientist you'll need to create visualizations that make your analyses accessible to colleagues, stakeholders, and decision makers.
  *  [Install](http://www.tableau.com/products/desktop/download) the sofware for your operating system.
  *  For now just sign up for a trial account! We'll provide you with a license key for the full version during your first week of class. 
 
-4. [Import.io](https://www.import.io/) is a popular webscraping tool.
- * Grab the [download](https://www.import.io/download/download-info/) and follow the installation instructions for your OS.
-
 
 ## Part 7. Text Editors
 
-A data scientist frequently writes scripts to process data, perform analysis, and create visualizations, webpages, and other end products, so you'll need a good text editor. If you don't already have a preference, try [Atom](https://atom.io/) or [Sublime](http://www.sublimetext.com/). Both editors are available for most platforms.
-
-> Instructors should modify these options based on their preferences.
+A data scientist frequently writes scripts to process data, perform analysis, and create visualizations, webpages, and other end products, so you'll need a good text editor. If you don't already have a preference, try [Sublime](http://www.sublimetext.com/) or [Atom](https://atom.io/). Both editors are available for most platforms.
 
 1. Download the editor of your choice from their website.
 2. Install the package by double clicking the file icon or from the command line
-3. Run your editor from the applications menu, or from the command line, like so:
 
+If you choose Sublime, add a [symlink](https://kb.iu.edu/d/abbe) to your [load path](http://linuxbsdos.com/2014/11/26/how-to-set-the-path-variable-in-bash/) by typing:
 
 ```bash
-$ subl
+$ 1ln -s "/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl" /usr/local/bin/sublime
+```
+
+Run your editor from the applications menu, or better yet from the command line:
+
+```bash
+$ sublime
 $ atom
 ```
 
@@ -250,4 +241,4 @@ Finally, you'll want to tell `git` which editor it should use for your commits.
 
 ---
 
-That's it! Now you're ready to begin GA's Data Science Immersive. See you on the first day of class!
+That's it! Now you're ready to begin learning data science at GA.
