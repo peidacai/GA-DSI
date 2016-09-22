@@ -211,7 +211,7 @@ A data scientist frequently writes scripts to process data, perform analysis, an
 If you choose Sublime, add a [symlink](https://kb.iu.edu/d/abbe) to your [load path](http://linuxbsdos.com/2014/11/26/how-to-set-the-path-variable-in-bash/) by typing:
 
 ```bash
-$ 1ln -s "/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl" /usr/local/bin/sublime
+$ ln -s "/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl" /usr/local/bin/sublime
 ```
 
 Run your editor from the applications menu, or better yet from the command line:
