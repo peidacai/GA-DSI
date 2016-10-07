@@ -1,0 +1,801 @@
+,world_rank,university_name,total_score
+1803,1.0,California Institute of Technology,94.4051571802
+1804,2.0,University of Oxford,93.8474542545
+1805,3.0,Stanford University,93.8969798699
+1806,4.0,University of Cambridge,92.9420821464
+1807,5.0,Massachusetts Institute of Technology,91.0740450724
+1808,6.0,Harvard University,92.1648906825
+1809,7.0,Princeton University,90.3429666665
+1810,8.0,Imperial College London,89.1558223936
+1811,9.0,ETH Zurich – Swiss Federal Institute of Technology Zurich,87.8003719188
+1812,10.0,University of Chicago,88.657017931
+1813,11.0,Johns Hopkins University,86.7718699226
+1814,12.0,Yale University,87.9148724265
+1815,13.0,"University of California, Berkeley",87.7098144768
+1816,14.0,University College London,87.5448976935
+1817,15.0,Columbia University,86.8668303087
+1818,16.0,"University of California, Los Angeles",86.3287001551
+1819,17.0,University of Pennsylvania,85.7242008627
+1820,18.0,Cornell University,84.8108048665
+1821,19.0,University of Toronto,84.2901464172
+1822,20.0,Duke University,81.7700921257
+1823,21.0,University of Michigan,82.7042767393
+1824,22.0,Carnegie Mellon University,82.6478330955
+1825,23.0,London School of Economics and Political Science,81.8264945397
+1826,24.0,University of Edinburgh,80.7490165777
+1827,25.0,Northwestern University,79.1500213895
+1828,26.0,National University of Singapore,79.4022758051
+1829,27.0,King’s College London,78.6328263957
+1830,28.0,Karolinska Institute,77.2837137899
+1831,29.0,LMU Munich,76.467042914
+1832,30.0,New York University,78.0327733819
+1833,31.0,École Polytechnique Fédérale de Lausanne,75.6579777133
+1834,32.0,University of Washington,76.1659791871
+1835,33.0,University of Melbourne,75.2368612448
+1836,34.0,University of British Columbia,75.6490038668
+1837,35.0,KU Leuven,74.0246770476
+1838,36.0,University of Illinois at Urbana-Champaign,75.0522885737
+1839,37.0,Heidelberg University,74.2568170985
+1840,38.0,McGill University,73.0191195006
+1841,39.0,"University of California, San Diego",72.5581848951
+1842,39.0,"University of California, Santa Barbara",71.4927011067
+1843,41.0,Georgia Institute of Technology,71.8993017988
+1844,42.0,Peking University,71.2755836849
+1845,43.0,University of Tokyo,71.9685713299
+1846,44.0,"University of California, Davis",71.2028862911
+1847,44.0,University of Hong Kong,71.1323673057
+1848,46.0,University of Texas at Austin,70.571418615
+1849,47.0,Tsinghua University,69.5668374091
+1850,47.0,Wageningen University and Research Center,68.9992393229
+1851,49.0,Humboldt University of Berlin,70.7321822762
+1852,50.0,University of Wisconsin-Madison,70.2526998422
+1853,51.0,Brown University,70.2071723173
+1854,52.0,Australian National University,69.8205107796
+1855,53.0,Technical University of Munich,68.4957242435
+1856,54.0,École Normale Supérieure,69.133876292
+1857,55.0,Nanyang Technological University,66.9712406977
+1858,56.0,University of Manchester,68.4407526687
+1859,56.0,University of Sydney,67.7699067427
+1860,58.0,University of Amsterdam,67.7997191012
+1861,59.0,Hong Kong University of Science and Technology,66.9306065914
+1862,60.0,The University of Queensland,66.3708382447
+1863,60.0,Washington University in St Louis,67.6101908476
+1864,62.0,Utrecht University,65.9518405748
+1865,63.0,University of North Carolina at Chapel Hill,66.9947465509
+1866,64.0,Boston University,66.7049694687
+1867,65.0,Delft University of Technology,65.0128178333
+1868,65.0,University of Minnesota,65.1229716309
+1869,67.0,Leiden University,65.9885110535
+1870,68.0,University of Southern California,66.0805854402
+1871,69.0,University of Bristol,64.5180084214
+1872,70.0,Durham University,63.9383469993
+1873,71.0,Erasmus University Rotterdam,63.4332912472
+1874,72.0,Free University of Berlin,63.9902413339
+1875,73.0,Monash University,61.9036722719
+1876,74.0,University of Groningen,61.5481896145
+1877,75.0,Pennsylvania State University,62.6322207425
+1878,76.0,University of Glasgow,62.2547656658
+1879,76.0,University of Helsinki,62.7723587559
+1880,78.0,University of Tübingen,61.7738531152
+1881,79.0,University of Pittsburgh,62.0769394798
+1882,80.0,University of Warwick,61.6157010903
+1883,81.0,Uppsala University,61.843759768
+1884,82.0,University of Copenhagen,60.968370568
+1885,82.0,University of New South Wales,60.9715256368
+1886,84.0,University of Freiburg,59.6680112957
+1887,85.0,Seoul National University,60.4386343
+1888,86.0,University of St Andrews,60.7865839545
+1889,87.0,Vanderbilt University,60.0145657942
+1890,88.0,Kyoto University,59.9537293222
+1891,88.0,Maastricht University,58.6631810102
+1892,90.0,Emory University,59.6968769802
+1893,90.0,Lund University,59.3065574
+1894,90.0,Ohio State University,59.7991589234
+1895,93.0,University of Exeter,59.670316862
+1896,94.0,University of Bonn,59.4688095431
+1897,94.0,Georgetown University,58.125294273
+1898,94.0,McMaster University,57.7820905919
+1899,97.0,University of Sheffield,58.760700815
+1900,98.0,Queen Mary University of London,58.6164990601
+1901,99.0,University of Göttingen,58.7004611467
+1902,99.0,Michigan State University,58.7211148698
+1903,101.0,University of Basel,56.274499733
+1904,101.0,École Polytechnique,56.9372708711
+1905,101.0,Rice University,57.893597796
+1906,104.0,Dartmouth College,58.1255840841
+1907,104.0,University of Zurich,57.5832344917
+1908,106.0,Aarhus University,57.2782642924
+1909,106.0,"University of California, Irvine",57.6866962789
+1910,106.0,University of Mannheim,56.9084314185
+1911,108.0,University of Notre Dame,58.2387119487
+1912,109.0,University of Western Australia,56.9714253821
+1913,110.0,RWTH Aachen University,56.3267269205
+1914,110.0,University of Southampton,57.3328702583
+1915,112.0,Scuola Normale Superiore di Pisa,57.3958291767
+1916,113.0,University of Montreal,55.9241009379
+1917,113.0,Pierre and Marie Curie University,57.0905828392
+1918,113.0,Purdue University,57.8035666247
+1919,116.0,Pohang University of Science and Technology,55.9645952469
+1920,117.0,"University of Maryland, College Park",57.2163773681
+1921,118.0,Ghent University,55.9415783904
+1922,119.0,University of Birmingham,56.412216948
+1923,120.0,University of Bern,55.132163321
+1924,120.0,University of Cape Town,54.8512619108
+1925,120.0,University of Florida,57.097683388
+1926,123.0,University of Erlangen-Nuremberg,54.8601937478
+1927,123.0,"Rutgers, the State University of New Jersey",56.7652052564
+1928,125.0,University of Münster,55.8546590313
+1929,125.0,Radboud University Nijmegen,56.2142609265
+1930,127.0,University of Colorado Boulder,56.1722389823
+1931,127.0,Tufts University,55.4660720677
+1932,129.0,"Royal Holloway, University of London",55.6463149156
+1933,130.0,Lancaster University,55.7583010087
+1934,131.0,University of Geneva,54.5156902637
+1935,131.0,University of York,55.8025104247
+1936,133.0,Case Western Reserve University,55.6489726335
+1937,133.0,University of Leeds,55.4435038313
+1938,135.0,University of Oslo,55.3951782807
+1939,136.0,Stockholm University,55.4376656158
+1940,137.0,University of Alberta,54.7059443029
+1941,138.0,Chinese University of Hong Kong,54.8136229781
+1942,138.0,Karlsruhe Institute of Technology,53.3453347047
+1943,140.0,University of Sussex,54.5716788732
+1944,141.0,University of Massachusetts,54.2658602853
+1945,142.0,University of Vienna,54.5750865323
+1946,143.0,University of Nottingham,54.1288911471
+1947,144.0,"University of California, Santa Cruz",54.1571220338
+1948,144.0,University of Lausanne,53.5927286807
+1949,146.0,Autonomous University of Barcelona,54.2637993373
+1950,147.0,University of Virginia,53.6100316563
+1951,148.0,Korea Advanced Institute of Science and Technology (KAIST),51.8996286209
+1952,149.0,University of Adelaide,52.0114972249
+1953,149.0,University of East Anglia,53.0812439989
+1954,149.0,University of Twente,51.7543092674
+1955,153.0,Sungkyunkwan University (SKKU),52.0254016686
+1956,154.0,VU University Amsterdam,52.1590710412
+1957,155.0,KTH Royal Institute of Technology,51.6304397821
+1958,156.0,University of Cologne,51.7879898568
+1959,157.0,University of Liverpool,52.1435934258
+1960,158.0,TU Dresden,51.0042014813
+1961,158.0,University of Rochester,52.1876424119
+1962,160.0,Trinity College Dublin,52.1700036708
+1963,161.0,Lomonosov Moscow State University,51.3477792589
+1964,161.0,University of Miami,51.8978046941
+1965,163.0,University of Arizona,52.2697730905
+1966,164.0,Pompeu Fabra University,51.192807588
+1967,164.0,University of Reading,51.3245486616
+1968,164.0,Yeshiva University,51.6725741396
+1969,167.0,"University of California, Riverside",51.130751742
+1970,167.0,University of Leicester,51.0571934553
+1971,167.0,National Taiwan University,51.679356663
+1972,167.0,Technical University of Denmark,50.7429702294
+1973,167.0,Université Catholique de Louvain,51.0010940296
+1974,172.0,University of Aberdeen,50.7761747582
+1975,172.0,University of Auckland,49.9854654741
+1976,174.0,University of Barcelona,51.3434275141
+1977,175.0,University of Konstanz,49.8559339009
+1978,176.0,Eindhoven University of Technology,50.2838856907
+1979,176.0,University College Dublin,50.7388770171
+1980,178.0,Hebrew University of Jerusalem,50.9657837225
+1981,179.0,University of Waterloo,50.4759877381
+1982,180.0,University of Gothenburg,50.5757965422
+1983,180.0,Scuola Superiore Sant’Anna,49.4753930014
+1984,182.0,University of Bergen,50.1268308266
+1985,182.0,Cardiff University,50.1065117217
+1986,182.0,University of Utah,49.9528862102
+1987,185.0,Brandeis University,49.9150727802
+1988,185.0,University of Dundee,49.5039386163
+1989,185.0,University of Würzburg,49.8388389402
+1990,188.0,Paris-Sud University,50.016876429
+1991,189.0,Arizona State University,50.241066297
+1992,190.0,University of Antwerp,49.2487302944
+1993,190.0,Boston College,49.4940140878
+1994,192.0,Ulm University,48.9256273439
+1995,193.0,University of Luxembourg,49.0759795587
+1996,193.0,Texas A&M University,49.7601116437
+1997,195.0,Charité - Universitätsmedizin Berlin,48.4409306499
+1998,196.0,Newcastle University,49.0612223443
+1999,196.0,"St George’s, University of London",49.0141189313
+2000,198.0,University of Trento,48.9251870645
+2001,199.0,Paris Diderot University – Paris 7,49.0006725243
+2002,200.0,Queen’s University Belfast,48.7097585865
+2003,225.5,Aalborg University,44.4155307228
+2004,225.5,"Birkbeck, University of London",48.0273899321
+2005,225.5,University of Bologna,46.6442743177
+2006,225.5,University at Buffalo,46.5792345307
+2007,225.5,University of Calgary,47.7670986747
+2008,225.5,Chalmers University of Technology,44.0641133327
+2009,225.5,City University of Hong Kong,47.5309439278
+2010,225.5,Copenhagen Business School,44.9155250976
+2011,225.5,Dalhousie University,44.2562525113
+2012,225.5,University of Duisburg-Essen,46.8041573262
+2013,225.5,École Normale Supérieure de Lyon,48.0112011811
+2014,225.5,Florida State University,47.3802895944
+2015,225.5,University of Fribourg,46.1827505054
+2016,225.5,Fudan University,44.9482802518
+2017,225.5,George Washington University,44.7842257675
+2018,225.5,Goethe University Frankfurt,48.5222494901
+2019,225.5,University of Hawai’i at M_noa,46.3618393686
+2020,225.5,Hong Kong Polytechnic University,45.2210226304
+2021,225.5,University of Illinois at Chicago,45.3636675877
+2022,225.5,Indiana University,47.6649139477
+2023,225.5,University of Iowa,45.9194300112
+2024,225.5,Johannes Gutenberg University of Mainz,43.7013536418
+2025,225.5,Joseph Fourier University,46.9151507823
+2026,225.5,University of Kiel,47.2466144183
+2027,225.5,Laval University,45.2224658642
+2028,225.5,Medical University of Vienna,45.7628031477
+2029,225.5,Northeastern University,47.2287200914
+2030,225.5,Oregon Health and Science University,44.4770359846
+2031,225.5,University of Otago,48.2912081302
+2032,225.5,University of Ottawa,46.8544000815
+2033,225.5,Paris Descartes University,45.7181818178
+2034,225.5,Peter the Great St Petersburg Polytechnic University,46.9649848471
+2035,225.5,Polytechnic University of Milan,46.1708157272
+2036,225.5,Royal Veterinary College,45.5257797525
+2037,225.5,Rush University,45.8711773225
+2038,225.5,Sapienza University of Rome,44.9717358302
+2039,225.5,University of Science and Technology of China,48.1029288117
+2040,225.5,University of South Florida,44.7560050003
+2041,225.5,Stony Brook University,46.1512405245
+2042,225.5,University of Stuttgart,47.290443432
+2043,225.5,Swedish University of Agricultural Sciences,43.9496395727
+2044,225.5,Technical University of Darmstadt,44.8006136117
+2045,225.5,University of Technology Sydney,46.3010444999
+2046,225.5,Tel Aviv University,47.1996195871
+2047,225.5,University of Texas at Dallas,46.2144105572
+2048,225.5,Tilburg University,46.3831297593
+2049,225.5,Tohoku University,44.9002368608
+2050,225.5,Tokyo Institute of Technology,44.5746312422
+2051,225.5,University of Victoria,45.0532668639
+2052,225.5,Wake Forest University,47.4932498902
+2053,225.5,University of Western Ontario,45.4775781426
+2054,225.5,William & Mary,45.3156954373
+2055,225.5,University of the Witwatersrand,46.1715737962
+2056,275.5,Aalto University,43.6149909648
+2057,275.5,Aix-Marseille University,42.6074586641
+2058,275.5,University of Bath,41.154983764
+2059,275.5,Bayreuth University,42.0095643217
+2060,275.5,Bielefeld University,44.0834991443
+2061,275.5,University of Bordeaux,40.6492507604
+2062,275.5,Charles Darwin University,43.3812621887
+2063,275.5,Colorado School of Mines,42.9279790906
+2064,275.5,Colorado State University,40.9568015758
+2065,275.5,University of Delaware,42.5388980227
+2066,275.5,Flinders University,40.6735720463
+2067,275.5,University of Georgia,41.2161628139
+2068,275.5,Griffith University,41.0340503757
+2069,275.5,University of Iceland,42.3551047425
+2070,275.5,Indian Institute of Science,42.4872918589
+2071,275.5,Iowa State University,40.4259191469
+2072,275.5,James Cook University,42.9251534387
+2073,275.5,Justus Liebig University Giessen,40.5628564251
+2074,275.5,King Abdulaziz University,41.0535527596
+2075,275.5,Koç University,41.8851334981
+2076,275.5,Korea University,43.0653509733
+2077,275.5,University of Liège,39.9271417774
+2078,275.5,Linköping University,41.0610123992
+2079,275.5,Nanjing University,41.9215594073
+2080,275.5,National Tsing Hua University,41.2785857094
+2081,275.5,"National University of Ireland, Galway",42.8087975045
+2082,275.5,University of Newcastle,42.7593425084
+2083,275.5,North Carolina State University,42.6736645766
+2084,275.5,Oregon State University,41.1333353227
+2085,275.5,Osaka University,42.28942569
+2086,275.5,Queen’s University,43.4261764706
+2087,275.5,Queensland University of Technology,42.7244241939
+2088,275.5,Rensselaer Polytechnic Institute,42.2188200547
+2089,275.5,Royal College of Surgeons in Ireland,41.8977520926
+2090,275.5,Ruhr University Bochum,40.0878743066
+2091,275.5,Saint Louis University,42.6585217971
+2092,275.5,University of São Paulo,44.5450806659
+2093,275.5,Simon Fraser University,43.0351035261
+2094,275.5,University of Surrey,41.0529286344
+2095,275.5,Syracuse University,42.572786089
+2096,275.5,University of Tasmania,41.3075429021
+2097,275.5,"University of Tennessee, Knoxville",44.0807175845
+2098,275.5,Tomsk Polytechnic University,42.0431974662
+2099,275.5,Tulane University,41.4579851732
+2100,275.5,Umeå University,41.1716871923
+2101,275.5,Vienna University of Technology,42.8467141393
+2102,275.5,Virginia Polytechnic Institute and State University,41.7182537375
+2103,275.5,University of Wollongong,41.289544035
+2104,275.5,Zhejiang University,40.9566131459
+2105,325.5,Aberystwyth University,38.3094232601
+2106,325.5,University of Alaska Fairbanks,38.1746325375
+2107,325.5,Autonomous University of Madrid,38.6534250783
+2108,325.5,Bangor University,39.673064646
+2109,325.5,University of Bremen,38.8260236913
+2110,325.5,University of Cincinnati,40.1544799641
+2111,325.5,University of Connecticut,39.6875397536
+2112,325.5,Deakin University,39.6697953197
+2113,325.5,University of Essex,39.4597284375
+2114,325.5,George Mason University,38.3664097203
+2115,325.5,University of Greifswald,38.4922812901
+2116,325.5,Gwangju Institute of Science and Technology,40.218768794
+2117,325.5,University of Hohenheim,39.6255493636
+2118,325.5,University of Innsbruck,39.8659963346
+2119,325.5,Kazan Federal University,39.1915537312
+2120,325.5,University of Kent,38.407591498
+2121,325.5,Leibniz University of Hanover,38.1104927781
+2122,325.5,Macquarie University,39.7385295939
+2123,325.5,Medical College of Wisconsin,39.8130544214
+2124,325.5,University of Milan,39.5853919198
+2125,325.5,University of Milan-Bicocca,38.2287228625
+2126,325.5,Montpellier University,39.2336841257
+2127,325.5,Nagoya University,39.2714790166
+2128,325.5,University of Naples Federico II,38.6867962239
+2129,325.5,National Chiao Tung University,37.5387144111
+2130,325.5,National Research Nuclear University MePhI,39.3170543979
+2131,325.5,National Taiwan University of Science and Technology (Taiwan Tech),37.8055463382
+2132,325.5,University of Navarra,37.7970881701
+2133,325.5,University of Nebraska-Lincoln,38.5603028653
+2134,325.5,Örebro University,38.5512169318
+2135,325.5,University of Oregon,38.3827716927
+2136,325.5,University of Padua,40.5541449686
+2137,325.5,University of Pavia,37.7113185536
+2138,325.5,Plymouth University,39.1484517584
+2139,325.5,Shanghai Jiao Tong University,38.563528622
+2140,325.5,University of Southern Denmark,39.9290045128
+2141,325.5,Stellenbosch University,37.8237972568
+2142,325.5,University of Strasbourg,39.9949359555
+2143,325.5,Technical University of Dortmund,39.8391020323
+2144,325.5,Technion Israel Institute of Technology,40.3856375917
+2145,325.5,Toulouse 1 Capitole University,39.0816463233
+2146,325.5,University of Trieste,39.9958455105
+2147,325.5,University of Turin,38.9455056506
+2148,325.5,University of Turku,39.8356742486
+2149,325.5,Vrije Universiteit Brussel,38.5856174055
+2150,325.5,V_B - Technical University of Ostrava,38.5352394188
+2151,325.5,Yonsei University,37.4529642649
+2152,325.5,York University,38.3112735244
+2153,375.5,Bilkent University,35.4861522901
+2154,375.5,"Binghamton University, State University of New York",35.2749776953
+2155,375.5,University of Crete,37.5794905472
+2156,375.5,University of Cyprus,37.1804759255
+2157,375.5,Drexel University,35.1698601221
+2158,375.5,University of Eastern Finland,37.3259430026
+2159,375.5,University of Florence,37.8626392225
+2160,375.5,University of St Gallen,34.6980015971
+2161,375.5,Graz University of Technology,34.1311608423
+2162,375.5,University of Guelph,36.8980392355
+2163,375.5,Hanyang University,34.2975583019
+2164,375.5,Hong Kong Baptist University,36.7466093657
+2165,375.5,University of Houston,37.4601224889
+2166,375.5,Indian Institute of Technology Bombay,36.8679905851
+2167,375.5,Instituto Superior Técnico Lisboa,36.184008117
+2168,375.5,University of Jyväskylä,37.0747843364
+2169,375.5,La Trobe University,36.7465626494
+2170,375.5,Loughborough University,37.5939542808
+2171,375.5,University of Manitoba,36.1981125401
+2172,375.5,University of Missouri,36.8705296531
+2173,375.5,University of Modena and Reggio Emilia,35.4395697742
+2174,375.5,University of Montana,35.378577043
+2175,375.5,"National University of Ireland, Maynooth",35.5169085132
+2176,375.5,University of Nebraska Medical Center,37.864676671
+2177,375.5,University of New Mexico,37.5070530179
+2178,375.5,Norwegian University of Science and Technology,35.7678235647
+2179,375.5,University of Oulu,35.2343390518
+2180,375.5,Panthéon-Sorbonne University – Paris 1,37.083919105
+2181,375.5,Polytechnic University of Turin,36.8831355735
+2182,375.5,University of Rome III,36.1540782492
+2183,375.5,Sabancı University,36.3632907455
+2184,375.5,San Diego State University,35.91207376
+2185,375.5,University of South Australia,35.5129407158
+2186,375.5,University of South Carolina,36.1264802721
+2187,375.5,University of South Dakota,35.6127514825
+2188,375.5,State University of Campinas,35.770321638
+2189,375.5,University of Stirling,37.886422303
+2190,375.5,Sun Yat-sen University,34.3505377601
+2191,375.5,Swansea University,37.246997683
+2192,375.5,Swinburne University of Technology,35.3432727003
+2193,375.5,University of Tartu,37.4191568977
+2194,375.5,Temple University,36.1127382811
+2195,375.5,University of Texas at San Antonio,35.852649679
+2196,375.5,UiT The Arctic University of Norway,36.6905946373
+2197,375.5,Université Libre de Bruxelles,37.5814082938
+2198,375.5,Lille 2 University – Health and Law,35.4059323298
+2199,375.5,University College Cork,36.4724287562
+2200,375.5,Verona University,37.3157875045
+2201,375.5,Victoria University of Wellington,36.9083412667
+2202,375.5,Washington State University,35.9249692789
+2203,375.5,Wayne State University,36.3672301965
+2204,450.5,American University,32.7823457454
+2205,450.5,Aston University,34.3542429834
+2206,450.5,University of Aveiro,32.6141346814
+2207,450.5,University of Bari Aldo Moro,32.8232218916
+2208,450.5,Bar-Ilan University,30.2058388403
+2209,450.5,Bournemouth University,29.6076776999
+2210,450.5,University of Brescia,34.0523090786
+2211,450.5,Brno University of Technology,29.8504624619
+2212,450.5,Brunel University London,33.4664588963
+2213,450.5,Ca’ Foscari University of Venice,33.7846434943
+2214,450.5,University of Cagliari,29.8781778204
+2215,450.5,University of Canterbury,32.6069494219
+2216,450.5,Catholic University of the Sacred Heart,29.068412497
+2217,450.5,Charles University in Prague,32.7352779055
+2218,450.5,"China Medical University, Taiwan",32.3475408245
+2219,450.5,City University London,33.4562419126
+2220,450.5,Claude Bernard University Lyon 1,34.4612269906
+2221,450.5,University of Coimbra,33.3143077403
+2222,450.5,Complutense University of Madrid,31.3531442627
+2223,450.5,Concordia University,30.0157814275
+2224,450.5,Curtin University,32.6982300953
+2225,450.5,Dublin City University,32.5015846949
+2226,450.5,East China University of Science and Technology,28.7080959453
+2227,450.5,Ewha Womans University,31.026257775
+2228,450.5,Federico Santa María Technical University,33.7006070974
+2229,450.5,University of Ferrara,33.1280418245
+2230,450.5,Florida International University,31.1027085158
+2231,450.5,University of Genoa,33.6283710557
+2232,450.5,Georgia State University,32.5181602007
+2233,450.5,University of Graz,33.8429301202
+2234,450.5,Heriot-Watt University,31.7557687326
+2235,450.5,Hokkaido University,33.7588343708
+2236,450.5,Howard University,31.162630789
+2237,450.5,University of Hull,29.7619635162
+2238,450.5,University of Idaho,29.7039011024
+2239,450.5,Indian Institute of Technology Delhi,30.6397478492
+2240,450.5,Indian Institute of Technology Kharagpur,33.5242397453
+2241,450.5,Indian Institute of Technology Madras,28.160108227
+2242,450.5,University of Ioannina,29.9976819254
+2243,450.5,Iran University of Science and Technology,30.1686968317
+2244,450.5,Johannes Kepler University of Linz,30.2019034764
+2245,450.5,University of Kaiserslautern,33.8403913986
+2246,450.5,Keele University,32.9665029552
+2247,450.5,University of KwaZulu-Natal,31.2682774156
+2248,450.5,Kyung Hee University,32.0846640442
+2249,450.5,Kyushu University,31.6278188838
+2250,450.5,Lehigh University,32.3968112394
+2251,450.5,Louisiana State University,30.5665855466
+2252,450.5,University of Macau,33.077543362
+2253,450.5,Makerere University,33.5539613175
+2254,450.5,Marche Polytechnic University,34.4499293608
+2255,450.5,"University of Maryland, Baltimore County",33.0121518648
+2256,450.5,Murdoch University,33.7114635074
+2257,450.5,University of Nantes,33.477321515
+2258,450.5,National and Kapodistrian University of Athens,30.1976866142
+2259,450.5,National Autonomous University of Mexico,33.0503337266
+2260,450.5,National Cheng Kung University,32.3319932995
+2261,450.5,National Institute of Applied Sciences of Lyon (INSA Lyon),28.9803902042
+2262,450.5,National Yang-Ming University,30.0467037061
+2263,450.5,University of Neuchâtel,33.1411435751
+2264,450.5,New University of Lisbon,30.1641736994
+2265,450.5,University of Nice Sophia Antipolis,33.569512736
+2266,450.5,Novosibirsk State University,32.8547692729
+2267,450.5,The Open University,32.812152322
+2268,450.5,Oxford Brookes University,31.7540125279
+2269,450.5,University of Palermo,32.8262899902
+2270,450.5,University of Parma,30.5928413315
+2271,450.5,University of Pisa,34.4455583298
+2272,450.5,Polytechnic University of Catalonia,30.6199995084
+2273,450.5,Pontifical Catholic University of Chile,30.5048228412
+2274,450.5,University of Porto,33.3578119079
+2275,450.5,University of Portsmouth,32.0226775132
+2276,450.5,RMIT University,32.5491618968
+2277,450.5,University of Rome II – Tor Vergata,34.8363631815
+2278,450.5,University of Rovira i Virgili,34.3301753815
+2279,450.5,Saint Petersburg State University,31.5743171212
+2280,450.5,University of Salento,31.2351081697
+2281,450.5,University of San Francisco,30.8414396304
+2282,450.5,University of Saskatchewan,32.434533621
+2283,450.5,Sharif University of Technology,29.3764818838
+2284,450.5,University of Siena,29.603373607
+2285,450.5,Southern Cross University,31.621106912
+2286,450.5,State University of New York Albany,32.2479275227
+2287,450.5,University of Strathclyde,31.6168754313
+2288,450.5,University of Tampere,33.875435105
+2289,450.5,Tampere University of Technology,30.3228503579
+2290,450.5,Tokyo Medical and Dental University (TMDU),30.7855142336
+2291,450.5,Tokyo Metropolitan University,33.6295452549
+2292,450.5,University of Tsukuba,34.5200313329
+2293,450.5,University of Ulsan,30.4236914888
+2294,450.5,Ulster University,29.1524903702
+2295,450.5,Université du Québec à Montréal,31.7996265081
+2296,450.5,Universiti Teknologi Malaysia,30.0732003663
+2297,450.5,University of Urbino Carlo Bo,30.9182816095
+2298,450.5,University of Valencia,30.4158368472
+2299,450.5,University of Waikato,34.0990815159
+2300,450.5,Western Sydney University,33.7214736563
+2301,450.5,Wuhan University,28.5592127991
+2302,450.5,Xiamen University,29.4033558748
+2303,550.5,American University of Beirut,28.1475095637
+2304,550.5,Amirkabir University of Technology,26.8922657498
+2305,550.5,"University of the Andes, Colombia",24.0955056221
+2306,550.5,University of Arkansas,24.5046463613
+2307,550.5,Auburn University,23.9225072036
+2308,550.5,Babe_-Bolyai University,24.8489323078
+2309,550.5,University of the Basque Country,24.9885246323
+2310,550.5,Bauman Moscow State Technical University,23.2715474728
+2311,550.5,Ben-Gurion University of the Negev,27.3274937661
+2312,550.5,Blaise Pascal University,26.0006734568
+2313,550.5,Bo_aziçi University,28.4134225257
+2314,550.5,University of Burgundy,26.966870905
+2315,550.5,University of Canberra,24.7584861946
+2316,550.5,Carleton University,27.7449984947
+2317,550.5,University of Catania,28.7523767796
+2318,550.5,Central Queensland University,26.8586589786
+2319,550.5,University of Chile,27.2767890261
+2320,550.5,China Agricultural University,27.0623990978
+2321,550.5,Chung-Ang University,26.3710421392
+2322,550.5,Czech Technical University in Prague,25.2274371349
+2323,550.5,De Montfort University,24.6988802753
+2324,550.5,East China Normal University,27.5155234821
+2325,550.5,Edith Cowan University,26.3692094857
+2326,550.5,Federal University of Rio de Janeiro,23.6885073202
+2327,550.5,University of Granada,28.5427335897
+2328,550.5,University of Haifa,27.6402723753
+2329,550.5,Harbin Institute of Technology,24.4335508134
+2330,550.5,University of Hertfordshire,28.5302060973
+2331,550.5,Hiroshima University,28.7355436617
+2332,550.5,Huazhong University of Science and Technology,27.0772013373
+2333,550.5,Indian Institute of Technology Guwahati,27.9089396163
+2334,550.5,Indian Institute of Technology Kanpur,25.7208062009
+2335,550.5,Indian Institute of Technology Roorkee,26.9951308709
+2336,550.5,Isfahan University of Technology,26.1738877027
+2337,550.5,Istanbul Technical University,23.9424768122
+2338,550.5,Jadavpur University,27.375366868
+2339,550.5,Kanazawa University,24.4862394111
+2340,550.5,Kansas State University,27.4489606492
+2341,550.5,Keio University,23.6498156442
+2342,550.5,Kent State University,28.7235863619
+2343,550.5,King Fahd University of Petroleum and Minerals,26.232203613
+2344,550.5,King Saud University,23.8644466101
+2345,550.5,University of La Laguna,25.1633708014
+2346,550.5,Lappeenranta University of Technology,27.1259246969
+2347,550.5,University of Limerick,27.6813974244
+2348,550.5,University of Lisbon,26.8880319247
+2349,550.5,Liverpool John Moores University,26.9873845968
+2350,550.5,Mahidol University,24.7965014523
+2351,550.5,Manchester Metropolitan University,23.8328945285
+2352,550.5,University of Maribor,24.1618244236
+2353,550.5,Masaryk University,25.7367006296
+2354,550.5,Massey University,27.7925044433
+2355,550.5,Memorial University of Newfoundland,25.1949084296
+2356,550.5,Middle East Technical University,25.3844059437
+2357,550.5,University of Minho,27.5059032516
+2358,550.5,Missouri University of Science and Technology,24.7321749879
+2359,550.5,Montana State University,28.5872880077
+2360,550.5,Monterrey Institute of Technology and Higher Education,22.7929060241
+2361,550.5,National Central University,22.8749936576
+2362,550.5,National Sun Yat-Sen University,27.790573826
+2363,550.5,National Taiwan Normal University,25.7057652971
+2364,550.5,National Technical University of Athens,24.2824207401
+2365,550.5,New Jersey Institute of Technology,24.3661414178
+2366,550.5,New Mexico State University,28.5417727625
+2367,550.5,University of North Carolina at Greensboro,24.882263264
+2368,550.5,Oklahoma State University,27.5358119175
+2369,550.5,Osaka City University,24.394243969
+2370,550.5,Otto von Guericke University of Magdeburg,26.750770943
+2371,550.5,University of Oviedo,24.7658190061
+2372,550.5,Palack_ University in Olomouc,26.1152620897
+2373,550.5,Panjab University,23.9199377308
+2374,550.5,Paris Dauphine University,23.5789329713
+2375,550.5,Pontifical Catholic University of Rio de Janeiro (PUC-Rio),24.5396873898
+2376,550.5,Portland State University,25.1907552163
+2377,550.5,University of Pretoria,23.3018505973
+2378,550.5,Pusan National University,24.9261176437
+2379,550.5,Quaid-i-azam University,25.0443203674
+2380,550.5,University of Regina,23.6776713158
+2381,550.5,Renmin University of China,27.1266183733
+2382,550.5,University of Rennes 1,26.0425992874
+2383,550.5,University of Salamanca,24.2276764641
+2384,550.5,University of Santiago de Compostela,28.3123272113
+2385,550.5,Semmelweis University,27.6330533351
+2386,550.5,University of Seville,23.6281368655
+2387,550.5,Université de Sherbrooke,26.2232533761
+2388,550.5,Soochow University,25.3775830056
+2389,550.5,South China University of Technology,22.9936770425
+2390,550.5,Tallinn University of Technology,24.3020255864
+2391,550.5,Tehran University of Medical Sciences,26.1361306778
+2392,550.5,University of Texas at Arlington,28.2922115858
+2393,550.5,Tianjin University,26.9802753367
+2394,550.5,Tokyo University of Agriculture and Technology,25.0017910342
+2395,550.5,University of Toledo,25.7272220753
+2396,550.5,Tongji University,24.884067355
+2397,550.5,University of Tulsa,23.8670578493
+2398,550.5,United Arab Emirates University,23.7913168556
+2399,550.5,University of Warsaw,28.7061290307
+2400,550.5,University of Wisconsin-Milwaukee,25.4240922788
+2401,550.5,Xi’an Jiaotong University,25.6182406743
+2402,550.5,University of Zaragoza,27.574970441
+2403,700.5,University of A Coruña,15.4982272709
+2404,700.5,Adam Mickiewicz University,16.0814459622
+2405,700.5,AGH University of Science and Technology,17.5577537381
+2406,700.5,Ajou University,18.3500162921
+2407,700.5,University of Alcalá,20.8489259653
+2408,700.5,Alexandria University,15.4813278108
+2409,700.5,Alexandru Ioan Cuza University,17.3096523336
+2410,700.5,Aligarh Muslim University,19.390247937
+2411,700.5,American University of Sharjah,17.7679724282
+2412,700.5,Amrita University,16.4248963721
+2413,700.5,Anadolu University,15.3369746083
+2414,700.5,Andhra University,13.8211695869
+2415,700.5,University of Antioquia,19.5872432005
+2416,700.5,Aristotle University of Thessaloniki,22.9625281386
+2417,700.5,"Asia University, Taiwan",19.9047083884
+2418,700.5,Athens University of Economics and Business,22.0995087453
+2419,700.5,Auckland University of Technology,21.419938986
+2420,700.5,Austral University of Chile,15.6774060551
+2421,700.5,Beijing Institute of Technology,18.7403511288
+2422,700.5,Belarusian State University,14.1996593625
+2423,700.5,University of Belgrade,16.8194165583
+2424,700.5,"Birla Institute of Technology and Science, Pilani",14.562020861
+2425,700.5,University of Bradford,22.9218903553
+2426,700.5,University of Brasília,13.9862739915
+2427,700.5,University of Brighton,18.8795960902
+2428,700.5,University of Bucharest,18.5787867451
+2429,700.5,Budapest University of Technology and Economics,18.2179094079
+2430,700.5,Cairo University,15.1455383915
+2431,700.5,University of Calcutta,20.179882062
+2432,700.5,"California State University, Long Beach",15.3090921509
+2433,700.5,Capital Medical University,18.9815394735
+2434,700.5,University of Castilla-La Mancha,20.0300767236
+2435,700.5,University of Central Lancashire,19.9737240253
+2436,700.5,University of Cergy-Pontoise,15.1787902709
+2437,700.5,Chang Gung University,23.0560290994
+2438,700.5,Carlos III University of Madrid,23.0459992356
+2439,700.5,"University of Chemistry and Technology, Prague",18.8427509688
+2440,700.5,Chiang Mai University,19.84578942
+2441,700.5,Chiba University,22.3787471535
+2442,700.5,China University of Geosciences (Wuhan),20.8060987913
+2443,700.5,China University of Petroleum (Beijing),18.0241140777
+2444,700.5,Chonbuk National University,19.9297857909
+2445,700.5,Chongqing University,14.7229237751
+2446,700.5,Chonnam National University,19.2458627046
+2447,700.5,Chulalongkorn University,19.0421688428
+2448,700.5,Chung Yuan Christian University,18.4645282478
+2449,700.5,Chungnam National University,18.0960292326
+2450,700.5,Clemson University,23.2023618782
+2451,700.5,Comenius University in Bratislava,19.4113144951
+2452,700.5,Coventry University,18.021167421
+2453,700.5,Dalian University of Technology,21.3938441981
+2454,700.5,University of Debrecen,18.5923425692
+2455,700.5,University of Delhi,19.335040109
+2456,700.5,University of Dhaka,14.4999692228
+2457,700.5,Dublin Institute of Technology,18.799784816
+2458,700.5,Ehime University,16.2638194712
+2459,700.5,University of Electronic Science and Technology of China,14.1015375895
+2460,700.5,Eötvös Loránd University,22.4264896374
+2461,700.5,Erciyes University,14.9505992298
+2462,700.5,Federal University of Bahia,13.9618722336
+2463,700.5,Federal University of Minas Gerais,21.7820316642
+2464,700.5,Federal University of Paraná (UFPR),13.8993549223
+2465,700.5,Federal University of Rio Grande do Sul,20.6185025373
+2466,700.5,Federal University of Santa Catarina,17.5879194993
+2467,700.5,Federal University of São Carlos,16.9697843849
+2468,700.5,Federal University of Viçosa,18.9275652994
+2469,700.5,Federal University of Lavras,15.1249755877
+2470,700.5,Feng Chia University,20.6076950303
+2471,700.5,Florida Institute of Technology,22.1270863312
+2472,700.5,Fu Jen Catholic University,14.4699625398
+2473,700.5,Gda_sk University of Technology,13.6248860791
+2474,700.5,University of Ghana,18.944343729
+2475,700.5,Gifu University,18.8486316707
+2476,700.5,Glasgow Caledonian University,19.5862032335
+2477,700.5,University of Greenwich,18.770897556
+2478,700.5,Hacettepe University,17.5062740613
+2479,700.5,University of Huddersfield,15.8861952862
+2480,700.5,Hunan University,17.8231889416
+2481,700.5,University of Ibadan,13.8055765955
+2482,700.5,University of Indonesia,14.944726659
+2483,700.5,Inha University,21.0372925258
+2484,700.5,I-Shou University,13.4706472796
+2485,700.5,Istanbul University,19.7345372543
+2486,700.5,Jagiellonian University,23.334363577
+2487,700.5,Jilin University,18.9886637076
+2488,700.5,University of Jordan,14.4271174286
+2489,700.5,Jordan University of Science and Technology,16.2744487969
+2490,700.5,Juntendo University,21.4976406964
+2491,700.5,K.N. Toosi University of Technology,19.419851561
+2492,700.5,Kaohsiung Medical University,20.866321506
+2493,700.5,Khon Kaen University,16.1647734776
+2494,700.5,King Mongkut’s University of Technology Thonburi,21.9723137066
+2495,700.5,Kingston University,22.2307193655
+2496,700.5,Kinki University,18.4002102939
+2497,700.5,Kobe University,22.0703202364
+2498,700.5,Konkuk University,19.0390803364
+2499,700.5,Kumamoto University,20.7800696268
+2500,700.5,Kyungpook National University,18.5091303628
+2501,700.5,Kyushu Institute of Technology,15.7165117406
+2502,700.5,University of Latvia,18.6215572932
+2503,700.5,Lille 1 University – Science and Technology,22.6318315235
+2504,700.5,University of Lincoln,21.2948941494
+2505,700.5,University of Ljubljana,21.45861903
+2506,700.5,University of Marrakech Cadi Ayyad,14.0497860104
+2507,700.5,Miami University,23.3254083364
+2508,700.5,Middlesex University,22.2231576536
+2509,700.5,Moscow Institute of Physics and Technology,23.2359384903
+2510,700.5,University of Murcia,19.9783117177
+2511,700.5,Nagasaki University,16.3000262482
+2512,700.5,University of Nairobi,16.1462365198
+2513,700.5,National Chengchi University,16.1855486487
+2514,700.5,National Chung Cheng University,18.702015993
+2515,700.5,National Chung Hsing University,20.0452018459
+2516,700.5,National Taipei University of Technology,16.2278285823
+2517,700.5,National Taiwan Ocean University,19.1117115674
+2518,700.5,National University of Córdoba,13.6232891326
+2519,700.5,National University of Science and Technology (MISiS),18.7252201769
+2520,700.5,National University of Sciences and Technology,21.3858241115
+2521,700.5,Niigata University,16.5812131357
+2522,700.5,Northumbria University,21.386702949
+2523,700.5,Northwestern Polytechnical University,14.3004913294
+2524,700.5,Nottingham Trent University,19.6984205983
+2525,700.5,Oakland University,17.5715024534
+2526,700.5,Ocean University of China,14.2929032725
+2527,700.5,Ohio University,22.0068696209
+2528,700.5,Okayama University,21.1433996618
+2529,700.5,Osaka Prefecture University,16.4111132026
+2530,700.5,University of Pardubice,13.7718417479
+2531,700.5,University of Paris North – Paris 13,23.0148838523
+2532,700.5,Paris-Sorbonne University – Paris 4,21.3736015627
+2533,700.5,University of Patras,20.2530444148
+2534,700.5,University of Pécs,19.4058132714
+2535,700.5,Polytechnic University of Valencia,22.7301673132
+2536,700.5,Pontifical Catholic University of Paraná,18.6861416948
+2537,700.5,Pontifical Catholic University of Rio Grande do Sul (PUCRS),19.5071631709
+2538,700.5,Pontifical Catholic University of Valparaíso,13.9101967987
+2539,700.5,Prince of Songkla University,15.825771882
+2540,700.5,Qatar University,19.8552734603
+2541,700.5,Rio de Janeiro State University (UERJ),14.525951173
+2542,700.5,Rochester Institute of Technology,19.1969774889
+2543,700.5,Saitama University,17.2654107263
+2544,700.5,University of Salford,21.0819119986
+2545,700.5,"University of Santiago, Chile (USACH)",14.950655992
+2546,700.5,São Paulo State University (UNESP),19.0556076349
+2547,700.5,Savitribai Phule Pune University,20.2097089765
+2548,700.5,University of Science and Technology Beijing,17.992143776
+2549,700.5,Sejong University,22.938805342
+2550,700.5,University of Seoul,20.2410762114
+2551,700.5,Shahid Beheshti University,16.7793881504
+2552,700.5,Shanghai University,16.5947206025
+2553,700.5,Shantou University,18.9182830175
+2554,700.5,Sheffield Hallam University,17.6057901157
+2555,700.5,Shinshu University,17.0812985819
+2556,700.5,Showa University,14.4219242836
+2557,700.5,Sichuan University,19.4195324496
+2558,700.5,University of Silesia in Katowice,15.4877488251
+2559,700.5,Slovak University of Technology in Bratislava,19.4417846054
+2560,700.5,Sogang University,22.4546567163
+2561,700.5,Sophia University,13.7212441303
+2562,700.5,University of South Africa,14.1766873357
+2563,700.5,Southern Federal University,13.4325239933
+2564,700.5,University of Southern Mississippi,17.7028037784
+2565,700.5,University of Southern Queensland,18.4709496739
+2566,700.5,Suez Canal University,15.8623080329
+2567,700.5,Sultan Qaboos University,19.5817786077
+2568,700.5,Suranaree University of Technology,17.5112938279
+2569,700.5,University of Szeged,18.8526199833
+2570,700.5,Taipei Medical University,22.2128667657
+2571,700.5,Taras Shevchenko National University of Kyiv,15.3288882172
+2572,700.5,Technical University of Madrid,21.3330102639
+2573,700.5,University of Tehran,19.2439247246
+2574,700.5,University of Texas at El Paso,19.2741415223
+2575,700.5,Texas Tech University,23.0261742243
+2576,700.5,Tokai University,13.9843790623
+2577,700.5,Tokushima University,19.6078935371
+2578,700.5,Tokyo University of Marine Science and Technology,16.5410446296
+2579,700.5,Tokyo University of Science,22.1272500571
+2580,700.5,Tomsk State University,21.9709119948
+2581,700.5,Tottori University,14.8058211536
+2582,700.5,Toyohashi University of Technology,19.2460673495
+2583,700.5,Universiti Kebangsaan Malaysia,17.8459309256
+2584,700.5,Universiti Putra Malaysia,20.8384574019
+2585,700.5,Universiti Sains Malaysia,20.2289648461
+2586,700.5,Universiti Teknologi MARA,13.7695487694
+2587,700.5,Ural Federal University,17.2533297504
+2588,700.5,V.N. Karazin Kharkiv National University,13.4594585675
+2589,700.5,University of Vigo,20.6114561004
+2590,700.5,Vilnius University,20.5458808108
+2591,700.5,Warsaw University of Technology,22.1086021901
+2592,700.5,Waseda University,22.6464239269
+2593,700.5,University of West Bohemia,18.6560081367
+2594,700.5,University of the West of England,22.3854714883
+2595,700.5,West University of Timi_oara,14.495913514
+2596,700.5,University of Westminster,20.9251638338
+2597,700.5,Xidian University,13.0769699714
+2598,700.5,Yeungnam University,18.8202338599
+2599,700.5,Yıldız Technical University,13.8606015384
+2600,700.5,Yokohama City University,22.5454643152
+2601,700.5,Yokohama National University,16.9754651637
+2602,700.5,Yuan Ze University,20.5836723971
