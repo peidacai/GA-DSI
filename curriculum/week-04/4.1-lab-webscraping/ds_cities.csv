@@ -1,246 +1,1 @@
-1,Morrisville,NC
-2,Palo Alto,CA
-3,Redmond,WA
-4,Mountain View,CA
-5,El Segundo,CA
-6,Herndon,VA
-7,Menlo Park,CA
-8,Collegeville,PA
-9,Roseland,NJ
-10,Princeton,NJ
-11,San Carlos,CA
-12,Redwood City,CA
-13,Fairfax,VA
-14,Danville,PA
-15,Laurel,MD
-16,San Ramon,CA
-17,Annapolis,MD
-18,San Francisco,CA
-19,Palm Beach,FL
-20,Emeryville,CA
-21,Cambridge,MA
-22,Santa Clara,CA
-23,Alpharetta,GA
-24,Falls Church,VA
-25,San Mateo,CA
-26,Titusville,PA
-27,Los Gatos,CA
-28,Woodcliff Lake,NJ
-29,Northville,MI
-30,Sunnyvale,CA
-31,Plymouth,PA
-32,College Park,MD
-33,Auburn Hills,MI
-34,Lowell,AR
-35,Bloomingdale,IL
-36,Lake Mary,FL
-37,Park City,UT
-38,San Bruno,CA
-39,Charlottesville,VA
-40,Duluth,GA
-41,Santa Monica,CA
-42,Bellevue,WA
-43,West Chester,PA
-44,Woburn,MA
-45,Oak Ridge,TN
-46,Louisville,CO
-47,Culver City,CA
-48,Deerfield,IL
-49,Fort Mill,SC
-50,Portsmouth,NH
-51,Superior,CO
-52,Boston,MA
-53,Seattle,WA
-54,Northbrook,IL
-55,Bentonville,AR
-56,Washington,DC
-57,Rockville,MD
-58,Atlanta,GA
-59,Dearborn,MI
-60,Belmont,CA
-61,Somerville,NJ
-62,Arlington,VA
-63,Woodland,CA
-64,Hartford,CT
-65,Sartell,MN
-66,Schaumburg,IL
-67,Foster City,CA
-68,Washington,PA
-69,Vienna,VA
-70,Englewood,CO
-71,Clarksburg,WV
-72,Arlington,WA
-73,Marina,CA
-74,Chester,PA
-75,Irvine,CA
-76,Campbell,CA
-77,Burlington,VT
-78,Stamford,CT
-79,Waltham,MA
-80,Eden Prairie,MN
-81,Littleton,CO
-82,Summit,NJ
-83,Cincinnati,OH
-84,Lake Forest,IL
-85,St. Louis,MO
-86,Austin,TX
-87,Carmel,IN
-88,Milpitas,CA
-89,Richland,WA
-90,Lehi,UT
-91,Harrisburg,PA
-92,Kirkland,WA
-93,Issaquah,WA
-94,Wilmington,DE
-95,Irving,TX
-96,Ridgecrest,CA
-97,Maryland Heights,MO
-98,Tampa,FL
-99,Burlingame,CA
-100,Pasadena,CA
-101,White Plains,NY
-102,Alexandria,VA
-103,Roswell,GA
-104,Aventura,FL
-105,Gaithersburg,MD
-106,Madison Heights,MI
-107,Frederick,MD
-108,Johns Creek,GA
-109,Newark,DE
-110,Westlake,OH
-111,Pittsburgh,PA
-112,South San Francisco,CA
-113,Boulder,CO
-114,Carlsbad,CA
-115,Madison,WI
-116,Rome,NY
-117,Richardson,TX
-118,Beverly Hills,CA
-119,Westminster,CO
-120,Maplewood,MN
-121,Brentwood,TN
-122,Manhattan Beach,CA
-123,Charleston,SC
-124,Deerfield Beach,FL
-125,Everett,MA
-126,Wausau,WI
-127,Brea,CA
-128,Orlando,FL
-129,Chicago,IL
-130,Melbourne,FL
-131,Sumter,SC
-132,Dublin,OH
-133,Brookfield,WI
-134,Urbana,IL
-135,Newport Beach,CA
-136,Columbus,IN
-137,Troy,MI
-138,Hoboken,NJ
-139,Newton,MA
-140,Draper,UT
-141,Boca Raton,FL
-142,San Jose,CA
-143,Santa Barbara,CA
-144,Woonsocket,RI
-145,Dublin,CA
-146,Plano,TX
-147,Kansas City,MO
-148,Salt Lake City,UT
-149,Fort Lauderdale,FL
-150,Chesterfield,MO
-151,Knoxville,TN
-152,Hillsboro,OR
-153,Albany,NY
-154,West Palm Beach,FL
-155,New York,NY
-156,Minnetonka,MN
-157,Richmond,VA
-158,Berkeley,CA
-159,Round Rock,TX
-160,Hoffman Estates,IL
-161,Broomfield,CO
-162,Malden,MA
-163,Santa Cruz,CA
-164,Lafayette,LA
-165,Ann Arbor,MI
-166,Franklin,TN
-167,Denver,CO
-168,Schenectady,NY
-169,Weston,FL
-170,San Diego,CA
-171,Eagan,MN
-172,Des Moines,IA
-173,Redondo Beach,CA
-174,Pleasanton,CA
-175,Fremont,CA
-176,Folsom,CA
-177,Asheville,NC
-178,Dallas,TX
-179,Southfield,MI
-180,Columbus,OH
-181,Minneapolis,MN
-182,Evanston,IL
-183,Champaign,IL
-184,Camden,NJ
-185,Indianapolis,IN
-186,Livermore,CA
-187,Sandy Springs,GA
-188,Federal Way,WA
-189,Hawthorne,CA
-190,Nashua,NH
-191,Vista,CA
-192,Beaverton,OR
-193,Newark,NJ
-194,Las Vegas,NV
-195,Charlotte,NC
-196,Nashville,TN
-197,Wilmington,NC
-198,Centennial,CO
-199,Green Bay,WI
-200,Erie,PA
-201,Winston-Salem,NC
-202,Miramar,FL
-203,Philadelphia,PA
-204,Provo,UT
-205,Jersey City,NJ
-206,Concord,CA
-207,Thousand Oaks,CA
-208,Honolulu,HI
-209,Cary,NC
-210,Warren,MI
-211,Oakland,CA
-212,Syracuse,NY
-213,Hollywood,FL
-214,Naperville,IL
-215,Cleveland,OH
-216,Dayton,OH
-217,Springfield,MO
-218,Grand Prairie,TX
-219,Providence,RI
-220,Huntsville,AL
-221,Tempe,AZ
-222,Fayetteville,NC
-223,Newport News,VA
-224,Detroit,MI
-225,Raleigh,NC
-226,Glendale,CA
-227,Los Angeles,CA
-228,Boise City,ID
-229,Modesto,CA
-230,Miami,FL
-231,Akron,OH
-232,Houston,TX
-233,Phoenix,AZ
-234,Durham,NC
-235,Sacramento,CA
-236,St. Petersburg,FL
-237,Jacksonville,FL
-238,Baltimore,MD
-239,Fort Worth,TX
-240,Arlington,TX
-241,Omaha,NE
-242,San Antonio,TX
-243,Albuquerque,NM
-244,Portland,OR
-245,Louisville,KY
-246,Tucson,AZ
+City,StateMorrisville,NCPalo Alto,CARedmond,WAMountain View,CAEl Segundo,CAHerndon,VAMenlo Park,CACollegeville,PARoseland,NJPrinceton,NJSan Carlos,CARedwood City,CAFairfax,VADanville,PALaurel,MDSan Ramon,CAAnnapolis,MDSan Francisco,CAPalm Beach,FLEmeryville,CACambridge,MASanta Clara,CAAlpharetta,GAFalls Church,VASan Mateo,CATitusville,PALos Gatos,CAWoodcliff Lake,NJNorthville,MISunnyvale,CAPlymouth,PACollege Park,MDAuburn Hills,MILowell,ARBloomingdale,ILLake Mary,FLPark City,UTSan Bruno,CACharlottesville,VADuluth,GASanta Monica,CABellevue,WAWest Chester,PAWoburn,MAOak Ridge,TNLouisville,COCulver City,CADeerfield,ILFort Mill,SCPortsmouth,NHSuperior,COBoston,MASeattle,WANorthbrook,ILBentonville,ARWashington,DCRockville,MDAtlanta,GADearborn,MIBelmont,CASomerville,NJArlington,VAWoodland,CAHartford,CTSartell,MNSchaumburg,ILFoster City,CAWashington,PAVienna,VAEnglewood,COClarksburg,WVArlington,WAMarina,CAChester,PAIrvine,CACampbell,CABurlington,VTStamford,CTWaltham,MAEden Prairie,MNLittleton,COSummit,NJCincinnati,OHLake Forest,ILSt. Louis,MOAustin,TXCarmel,INMilpitas,CARichland,WALehi,UTHarrisburg,PAKirkland,WAIssaquah,WAWilmington,DEIrving,TXRidgecrest,CAMaryland Heights,MOTampa,FLBurlingame,CAPasadena,CAWhite Plains,NYAlexandria,VARoswell,GAAventura,FLGaithersburg,MDMadison Heights,MIFrederick,MDJohns Creek,GANewark,DEWestlake,OHPittsburgh,PASouth San Francisco,CABoulder,COCarlsbad,CAMadison,WIRome,NYRichardson,TXBeverly Hills,CAWestminster,COMaplewood,MNBrentwood,TNManhattan Beach,CACharleston,SCDeerfield Beach,FLEverett,MAWausau,WIBrea,CAOrlando,FLChicago,ILMelbourne,FLSumter,SCDublin,OHBrookfield,WIUrbana,ILNewport Beach,CAColumbus,INTroy,MIHoboken,NJNewton,MADraper,UTBoca Raton,FLSan Jose,CASanta Barbara,CAWoonsocket,RIDublin,CAPlano,TXKansas City,MOSalt Lake City,UTFort Lauderdale,FLChesterfield,MOKnoxville,TNHillsboro,ORAlbany,NYWest Palm Beach,FLNew York,NYMinnetonka,MNRichmond,VABerkeley,CARound Rock,TXHoffman Estates,ILBroomfield,COMalden,MASanta Cruz,CALafayette,LAAnn Arbor,MIFranklin,TNDenver,COSchenectady,NYWeston,FLSan Diego,CAEagan,MNDes Moines,IARedondo Beach,CAPleasanton,CAFremont,CAFolsom,CAAsheville,NCDallas,TXSouthfield,MIColumbus,OHMinneapolis,MNEvanston,ILChampaign,ILCamden,NJIndianapolis,INLivermore,CASandy Springs,GAFederal Way,WAHawthorne,CANashua,NHVista,CABeaverton,ORNewark,NJLas Vegas,NVCharlotte,NCNashville,TNWilmington,NCCentennial,COGreen Bay,WIErie,PAWinston-Salem,NCMiramar,FLPhiladelphia,PAProvo,UTJersey City,NJConcord,CAThousand Oaks,CAHonolulu,HICary,NCWarren,MIOakland,CASyracuse,NYHollywood,FLNaperville,ILCleveland,OHDayton,OHSpringfield,MOGrand Prairie,TXProvidence,RIHuntsville,ALTempe,AZFayetteville,NCNewport News,VADetroit,MIRaleigh,NCGlendale,CALos Angeles,CABoise City,IDModesto,CAMiami,FLAkron,OHHouston,TXPhoenix,AZDurham,NCSacramento,CASt. Petersburg,FLJacksonville,FLBaltimore,MDFort Worth,TXArlington,TXOmaha,NESan Antonio,TXAlbuquerque,NMPortland,ORLouisville,KYTucson,AZ
