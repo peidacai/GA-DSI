@@ -1,0 +1,4 @@
+assets
+input.txt
+list_of_files.txt
+readme.md
