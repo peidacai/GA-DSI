@@ -1,0 +1,23 @@
+<html>
+  <head>
+    <title>Yellow Taxi New York City Predictor</title>
+  </head>
+   <body>
+
+      <form action = "http://localhost:4000/result" method = "POST">
+         <p>Day
+             <select id="day" name="day">
+                <option value=1>1</option>
+                <option value=2>2</option>
+                <option value=3>3</option>
+              </select>
+         </p>   
+         <p>Hour <input type = "int" name = "hour" /></p>
+         <p>Zipcode <input type = "int" name = "zipcode" /></p>
+        
+
+         <p><input type = "submit" value = "submit" /></p>
+      </form>
+
+   </body>
+</html>
