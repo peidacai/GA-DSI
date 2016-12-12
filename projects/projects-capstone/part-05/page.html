@@ -1,0 +1,22 @@
+<html>
+  <head>
+    <title> NYC retail rental prices predictions </title>
+  </head>
+
+  <h1> NYC Retail Rental Prices Predict-O-Meter </h1>
+
+  <br>
+  <h4> To get a prediction of retail rental prices, please enter the location zipcode and real estate floor area. </h4>
+  <br>
+   <body>
+
+      <form action = "http://localhost:5000/predict" method = "POST">
+         <p>Zipcode <input type = "int" name = "zipcode" /></p>
+         <br>
+         <p>Floor Area <input type = "int" name = "area" /></p>
+<br>
+         <p><input type = "submit" value = "submit" /></p>
+      </form>
+
+   </body>
+</html>
