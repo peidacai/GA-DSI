@@ -7,40 +7,40 @@ from sklearn.ensemble import RandomForestRegressor
 from sklearn.preprocessing import StandardScaler
 import pickle
 
-# with open('/Users/peidacai/GA-DSI/projects/projects-capstone/part-05/assets/taxi_ref_df.pkl', 'r') as f:
-#     taxi_ref_df = pickle.load(f)
+with open('/Users/peidacai/GA-DSI/projects/projects-capstone/part-05/assets/taxi_ref_df.pkl', 'r') as f:
+    taxi_ref_df = pickle.load(f)
 
-# with open('/Users/peidacai/GA-DSI/projects/projects-capstone/part-05/assets/full_yelp_ref_df.pkl', 'r') as f:
-#     yelp_ref_df = pickle.load(f)
+with open('/Users/peidacai/GA-DSI/projects/projects-capstone/part-05/assets/full_yelp_ref_df.pkl', 'r') as f:
+    yelp_ref_df = pickle.load(f)
 
-# with open('/Users/peidacai/GA-DSI/projects/projects-capstone/part-05/assets/model.pkl', 'r') as f:
-#     model = pickle.load(f)
+with open('/Users/peidacai/GA-DSI/projects/projects-capstone/part-05/assets/model.pkl', 'r') as f:
+    model = pickle.load(f)
 
-# with open('/Users/peidacai/GA-DSI/projects/projects-capstone/part-05/assets/x_scaler.pkl', 'r') as f:
-#     ss_x = pickle.load(f)
+with open('/Users/peidacai/GA-DSI/projects/projects-capstone/part-05/assets/x_scaler.pkl', 'r') as f:
+    ss_x = pickle.load(f)
 
-# with open('/Users/peidacai/GA-DSI/projects/projects-capstone/part-05/assets/y_scaler.pkl', 'r') as f:
-#     ss_y = pickle.load(f)
+with open('/Users/peidacai/GA-DSI/projects/projects-capstone/part-05/assets/y_scaler.pkl', 'r') as f:
+    ss_y = pickle.load(f)
 
-# with open('/Users/peidacai/GA-DSI/projects/projects-capstone/part-05/assets/x_zip.pkl', 'r') as f:
-#     x_zip = pickle.load(f)
+with open('/Users/peidacai/GA-DSI/projects/projects-capstone/part-05/assets/x_zip.pkl', 'r') as f:
+    x_zip = pickle.load(f)
 
 
 
-# def set_zip(zipcode, zip_df):
-#     if zipcode == '10001':
-#         return zip_df
-#     else:
-#         try:
-#             for i in zip_df.columns:
-#                 new_i = i.replace('Zip__', '')
-#                 if new_i == zipcode:
-#                     zip_df.loc[0, i] = 1
-#                     return zip_df
-#                 else:
-#                     return zip_df
-#         except:
-#             return zip_df
+def set_zip(zipcode, zip_df):
+    if zipcode == '10001':
+        return zip_df
+    else:
+        try:
+            for i in zip_df.columns:
+                new_i = i.replace('Zip__', '')
+                if new_i == zipcode:
+                    zip_df.loc[0, i] = 1
+                    return zip_df
+                else:
+                    return zip_df
+        except:
+            return zip_df
 
 @app.route("/page")
 def page():
@@ -54,29 +54,29 @@ def predict():
         inputs = flask.request.form
 
       
-        #zipcode = inputs['zipcode']
+        zipcode = inputs['zipcode']
 
-        #area = inputs['area']
+        area = inputs['area']
 
-        #c = taxi_ref_df.loc[zipcode, ['dropoff_hr_0600_1200', 'dropoff_hr_1200_1800', 'dropoff_hr_1800_2359', 'dropoff_hr_2359_0600']]
-        # sf = pd.Series([area], index = ['SF_avail'])
-        # d = yelp_ref_df.loc[zipcode, :]
+        taxi = taxi_ref_df.loc[:, ['dropoff_hr_0600_1200', 'dropoff_hr_1200_1800', 'dropoff_hr_1800_2359', 'dropoff_hr_2359_0600']]
+        floor_area = pd.Series([area], index = ['SF_avail'])
+        yelp = yelp_ref_df.loc[zipcode, :]
 
-        # inp = pd.DataFrame(pd.concat([sf, d, c], axis = 0))
-        # inp = inp.T
+        comb = pd.DataFrame(pd.concat([floor_area, yelp, taxi], axis = 0))
+        comb = comb.T
 
-        # inpu = pd.DataFrame(ss_x.transform(inp), columns = inp.columns)
-        # inp_x = pd.concat([inpu, set_zip(str(zipcode), x_zip)], axis = 1)
+        scale_comb = pd.DataFrame(ss_x.transform(comb), columns = inp.columns)
+        inp_x = pd.concat([scale_comb, set_zip(str(zipcode))], axis = 1)
 
-        # y_pred = round(ss_y.inverse_transform(model.predict(inp_x))[0],2)
+        y_pred = round(ss_y.inverse_transform(model.predict(inp_x))[0],2)
 
 
-        return 'hi'
+        return 'heehaw'
 
 
 
 
 if __name__ == '__main__':
     HOST = '127.0.0.1'
-    PORT = '5000'
+    PORT = '4000'
     app.run(HOST, PORT)
