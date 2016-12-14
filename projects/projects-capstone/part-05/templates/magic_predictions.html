@@ -1,0 +1,49 @@
+<html>
+<head>
+</head>
+<body>
+ <center>
+ <br>
+<img src="/static/for_lease.jpg" alt="forlease_navidad" width="400" height="200">
+<br><br>
+ <h2>Predicted price per sqft for zipcode 
+ <u>{{ z }}</u>
+ and floor area 
+ <u>{{ a }}</u> sqft
+ is <br><br></h2>
+ <h1><u>${{ y_pred }}</u>
+ per sqft per year</h1>
+<br>
+<h2> or <br><br>
+${{ rent_yr }} per year</h2>
+<br><br>
+<h2> or <br><br>
+${{ rent_mth }} per month</h2>
+<br>
+<hr>
+<br>
+<h3> {{ z }} zipcode hourly taxi passenger dropoff per year</h3>
+<img src="/static/taxi_dropoff.png" alt="hourly_taxi";">
+<br><br>
+<h3> {{ z }} zipcode day of week taxi passenger dropoff per year</h3>
+<img src="/static/dow_dropoff.png" alt="daily_taxi";">
+<br><br>
+<hr>
+<br>
+<h3> {{ z }} zipcode Yelp number of reviews </h3>
+<img src="/static/yelp_revcount.png" alt="yelp_revcount";">
+<br>
+<br>
+<h3> {{ z }} zipcode Yelp number of "$" </h3>
+<img src="/static/yelp_cost.png" alt="yelp_cost";">
+<br>
+<br>
+<h3> {{ z }} zipcode Yelp number of stars </h3>
+<img src="/static/yelp_star.png" alt="yelp_star";">
+<br>
+<br>
+
+  </center>
+
+</body>
+</html>
